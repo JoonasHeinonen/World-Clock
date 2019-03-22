@@ -1,0 +1,2 @@
+# World Clock
+This is a world clock application programmed with JavaScript. The basic functionality is that you can choose from 3 different timezones, and the app displays the clock in the correct form and displays a background image most noteworth city of that area. It has also styling and index.html.
